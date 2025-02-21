@@ -1,5 +1,5 @@
 {
-    "name": "matriphe/laravel-md5-hash-updated",
+    "name": "diego03/laravel-md5-hash",
     "description": "Laravel package to use unsecured MD5 for password hash",
     "keywords": [
         "laravel",
